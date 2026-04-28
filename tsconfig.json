@@ -29,6 +29,6 @@
     ".next/types/**/*.ts",
     ".next/dev/types/**/*.ts",
     "**/*.mts"
-, "app/personalprojectArunwebscript/arunspersonalpage.js"  ],
+, "app/aruns-personal-page.js"  ],
   "exclude": ["node_modules"]
 }
