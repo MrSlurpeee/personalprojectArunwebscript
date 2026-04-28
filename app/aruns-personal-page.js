@@ -3,6 +3,10 @@ import { useState } from "react";
 /**
  this personal project will be a web profile with an included api
 */
+/**
+ *
+ * not sure if the app routing is correct on this..
+ */
 
 export default function ArunPersonalPage() {
   const [name, setName] = useState("Arun Graeff");
