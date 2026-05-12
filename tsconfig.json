@@ -31,11 +31,14 @@
     "**/*.mts",
     "app/app/aruns-personal-page.js",
     "app/arunpersonalproj/page.tsx",
-    "layout.js",
-    "app/page.js",
-    "layout.js",
+    "app/layout.jsx",
+    "page.tsx",
+    "app/layout.jsx",
     "app/home/index.js",
-    "app/page.tsx"
-  ],
+    "page.tsx",
+    "app/component/DogApi.js",
+    "app/about/page.jsx",
+    "app/layout.jsx"
+, "app/hobbies/page.jsx"  ],
   "exclude": ["node_modules"]
 }
